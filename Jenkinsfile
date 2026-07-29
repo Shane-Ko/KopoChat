@@ -18,7 +18,7 @@ spec:
         memory: "1Gi"
         cpu: "500m"
       limits:
-        memory: "3Gi"
+        memory: "2Gi"
         cpu: "2000m"
     volumeMounts:
     - name: kaniko-secret
